@@ -1,0 +1,19 @@
+#options-div
+{
+	overflow:hidden;
+	display:block;
+	float:left;
+	margin:0;
+	padding:10px;
+}
+
+.othersread_options {
+  padding: 10px;
+}
+
+#donate-form
+{
+	background:#c9defa;
+	padding:10px;
+	text-align: center;
+}

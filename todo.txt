@@ -1,0 +1,9 @@
+TODO
+
+ * Check if ajax can be avoided for visitors count, use request headers before rendering the post
+ * Update gettext files
+ * Update italian localization
+ * Add spanish localization
+ * Add french localization
+ * uninstall.php and 'Reset browsing data' have identical code. Refactor
+ * Add default css style
